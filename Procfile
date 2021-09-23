@@ -1,0 +1,1 @@
+web: gunicorn DIM.wsgi --log-file -
